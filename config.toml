@@ -1,4 +1,4 @@
-baseURL = "https://jack-alope.gitlab.io/sourgough"
+baseURL = "https://sourgough.jack.engineering"
 languageCode = "en-us"
 title = "Jack F. Murphy"
 theme = "sourgough-starter"
@@ -16,17 +16,17 @@ relativeURLs = true
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "about/"
+    url = "/about/"
 
   [[menu.main]]
     identifier = "publications"
     name = "Publications"
-    url = "publications/"
+    url = "/publications/"
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "projects/"
+    url = "/projects/"
 
 #----- NavBottom Links ------
   [[menu.bot]]
