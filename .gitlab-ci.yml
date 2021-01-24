@@ -5,6 +5,7 @@ variables:
 
 pages:
   script:
+    - apt-get install git
     - mkdir themes
     - cd themes
     - git clone https://gitlab.com/Jack-alope/sourgough-starter.git
