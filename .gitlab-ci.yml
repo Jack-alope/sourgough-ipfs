@@ -9,7 +9,7 @@ pages:
     - apk add git
     - mkdir themes
     - cd themes
-    - git clone https://gitlab.com/Jack-alope/sourgough-starter.git
+    - git clone https://github.com/Jack-alope/sourgough-starter.git
     - cd ..
     - hugo
   artifacts:

@@ -29,8 +29,6 @@ const req = https.request(options, res => {
             dict[i] = newDict;
         }
         console.log(dict)
-
-    //process.stdout.write(d)
   })
 })
 
