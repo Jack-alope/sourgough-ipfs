@@ -1,0 +1,87 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jack F. Murphy"
+theme = "sourgough-starter"
+relativeURLs = true
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+    backgroundPath = "images/SA_back.png"
+    css= ["css/sourgough.css"]
+
+[menu]
+#----- Navbar links ------
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+
+#----- NavBottom Links ------
+  [[menu.bot]]
+    identifier = "github"
+    name = "Github"
+    url = "/about/"
+    pre = "fab fa-github"
+
+  [[menu.bot]]
+    identifier = "medium"
+    name = "Medium"
+    url = "/publications/"
+    pre = "fab fa-medium-m"
+
+  [[menu.bot]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "/projects/"
+    pre = "fab fa-linkedin-in"
+
+  [[menu.bot]]
+    identifier = "googlescholar"
+    name = "Google Scholar"
+    url = "/projects/"
+    pre = "fas fa-graduation-cap"
+
+#-------- About section links ----- 
+  [[menu.about]]
+    identifier = "ordcidid"
+    name = "OrcidID"
+    url = "/projects/"
+    pre = "fab fa-orcid"
+
+  [[menu.about]]
+    identifier = "researchgate"
+    name = "ResearchGate"
+    url = "/projects/"
+    pre = "fab fa-researchgate"
+
+  [[menu.about]]
+    identifier = "gitlab"
+    name = "Gitlab"
+    url = "/projects/"
+    pre = "fab fa-gitlab"
+
+#----------- Text Links -------
+  [[menu.link]]
+    identifier = "email"
+    name = "jack@mrph.dev"
+    url = "mailto:jack@mrph.dev"
+
+  [[menu.link]]
+    identifier = "resume"
+    name = "resume"
+    url = "https://resume.jack.engineering"
+
+[taxonomies]
+  authors = "authors"
