@@ -5,6 +5,7 @@ variables:
 
 pages:
   script:
+    - cat /etc/os-release
     - apt-get install git
     - mkdir themes
     - cd themes
