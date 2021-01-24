@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesca Stillitano on Jack F. Murphy</title>
+    <link>http://example.org/authors/francesca-stillitano/</link>
+    <description>Recent content in Francesca Stillitano on Jack F. Murphy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/authors/francesca-stillitano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adult human cardiac stem cell supplementation effectively increases contractile function and maturation in human engineered cardiac tissues</title>
+      <link>http://example.org/publications/2019-stem-cell-research/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/2019-stem-cell-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardiac Stem Cells from Failing Heart Improve Contractility of Engineered Human Myocardium</title>
+      <link>http://example.org/publications/2019-besam/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/2019-besam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardiac Tissue Engineering Models of Inherited and Acquired Cardiomyopathies</title>
+      <link>http://example.org/publications/2018-methods-mol-bio/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/2018-methods-mol-bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exosomal microRNA-21-5p Mediates Mesenchymal Stem Cell Paracrine Effects on Human Cardiac Tissue Contractility</title>
+      <link>http://example.org/publications/2018-circ-res/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/2018-circ-res/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
