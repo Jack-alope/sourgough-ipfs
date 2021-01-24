@@ -10,6 +10,7 @@ relativeURLs = true
 [params]
     backgroundPath = "images/SA_back.png"
     css= ["css/sourgough.css"]
+    scholarStats = true
 
 [menu]
 #----- Navbar links ------

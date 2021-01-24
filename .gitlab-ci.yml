@@ -5,12 +5,12 @@ variables:
 
 pages:
   script:
-    - cat /etc/os-release
     - apk add git
     - mkdir themes
     - cd themes
     - git clone https://github.com/Jack-alope/sourgough-starter.git
     - cd ..
+    - node resources/_gen/assets/js/scholar-stats.js
     - hugo
   artifacts:
     paths:
