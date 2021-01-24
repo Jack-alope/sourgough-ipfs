@@ -8,9 +8,13 @@ relativeURLs = true
     unsafe= true
 
 [params]
-    backgroundPath = "images/SA_back.png"
-    css= ["css/sourgough.css"]
+#------------- Config -------------------
     scholarStats = true
+    backgroundPath = "images/SA_back.png"
+    googleScholar = 'RwMPs-8AAAAJ'
+    
+#-------------- Defined ------------
+    css= ["css/sourgough.css"]
 
 [menu]
 #----- Navbar links ------
@@ -48,11 +52,7 @@ relativeURLs = true
     url = "/projects/"
     pre = "fab fa-linkedin-in"
 
-  [[menu.bot]]
-    identifier = "googlescholar"
-    name = "Google Scholar"
-    url = "/projects/"
-    pre = "fas fa-graduation-cap"
+  
 
 #-------- About section links ----- 
   [[menu.about]]
@@ -72,6 +72,12 @@ relativeURLs = true
     name = "Gitlab"
     url = "/projects/"
     pre = "fab fa-gitlab"
+
+  [[menu.about]]
+    identifier = "googlescholar"
+    name = "Google Scholar"
+    url = "/projects/"
+    pre = "fas fa-graduation-cap"
 
 #----------- Text Links -------
   [[menu.link]]
