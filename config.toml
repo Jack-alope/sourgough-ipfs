@@ -12,7 +12,8 @@ relativeURLs = true
     scholarStats = true
     backgroundPath = "images/SA_back.png"
     googleScholar = 'RwMPs-8AAAAJ'
-    
+    footerOffset = -75
+
 #-------------- Defined ------------
     css= ["css/sourgough.css"]
 
