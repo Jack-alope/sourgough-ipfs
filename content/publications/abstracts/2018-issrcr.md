@@ -3,7 +3,7 @@ title: "Heterocellular Coupling Mediates Pro-Contractile Effects Of Cardiac Prog
 date: 2018-06-18
 type: Abstract
 link: https://drive.google.com/open?id=1tx253dR29CHeviKrsIBWkaj2MwA4RTTg
-journal: International Society for Stem Cell Research 2018
+journal: International Society for Stem Cell Research
 authors: 
     - Irene C. Turnbull
     - Jack F. Murphy   

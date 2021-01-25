@@ -3,7 +3,7 @@ title: "Adult Human Cardiac Progenitor Cells Enhance Contractile Force in Human 
 date: 2018-11-12
 type: Abstract
 link: https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.16448
-journal: AHA Scientific Sessions 2018
+journal: AHA Scientific Sessions
 authors: 
     - Jack F. Murphy
     - Joshua Mayourian
