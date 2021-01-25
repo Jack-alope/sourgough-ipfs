@@ -4,6 +4,7 @@ date: 2019-12-14
 doi: 10.1186/s13287-019-1486-4
 PMID: 31801634
 link: https://doi.org/10.1186/s13287-019-1486-4
+type: Paper
 journal: Stem Cell Research and Therapy
 authors: 
     - Jack F. Murphy

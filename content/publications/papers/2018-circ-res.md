@@ -5,6 +5,7 @@ doi: 10.1161/CIRCRESAHA.118.312420
 PMID: 29449318
 link: https://doi.org/10.1161/CIRCRESAHA.118.312420
 journal: Circulation Research
+type: Paper
 authors: 
     - Joshua Mayourian
     - Delain K. Ceholski
