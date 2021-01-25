@@ -6,8 +6,9 @@ description: "This website is the result of a custom theme created
 from scratch using Hugo."
 
 projectLinks:
-    personal repo: https://gitlab.com
-    theme repo: https://github.com
+    personal repo: https://gitlab.com/jack-alope/sourgough
+    theme repo: https://github.com/jack-alope/sougough-starter
+    example repo: https://github.com/jack-alope/sourgough-example
     
 ---
 

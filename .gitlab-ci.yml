@@ -11,7 +11,7 @@ pages:
     - cd themes
     - git clone https://github.com/Jack-alope/sourgough-starter.git
     - cd ..
-    - node resources/_gen/assets/js/scholar-stats.js
+    - node static/js/scholar-stats.js
     - hugo
   artifacts:
     paths:

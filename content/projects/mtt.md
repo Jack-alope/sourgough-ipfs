@@ -7,6 +7,7 @@ analyze contracting cardiac tissue strips."
 
 projectLinks: 
     docs: https://mtt.mrph.dev
+    gitlab: https://gitlab.com/costa-lab/costa-lab/multi-tissue-tracking
 
 
 ---
