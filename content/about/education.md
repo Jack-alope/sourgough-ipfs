@@ -2,13 +2,22 @@
 title: "Education"
 date: 2021-01-16T21:51:40Z
 draft: false
-description: "grey"
-slug: "bean"
+
+photos:
+    Powerlinez: /images/vinc_powerlinez.png
+    Gunks Ledge: /images/gunks_ledge.jpg
+    Gunks Back: /images/gunks_back.jpg
+    #Kalymnos: /images/kalymnos.jpg
+    South Africa Hanging: /images/SA_hanging.png
+    Kidney Dissection: /images/v1.png
+    Brain Dissection: /images/v4.png
+    Muckros: /images/muckros.jpg
+    Gunks Side: /images/gunks_side.jpg
+
+degrees:
+    Trinity College Dublin, The University of Dublin:
+        Baccalaureus in Arte Ingeniaria (B.A.I) in Biomedical Engineering: 2023
+        Magister in Arte Ingeniaria (M.A.I) in Biomedical Engineering: 2023
+        
+    
 ---
-
-
-Trinity College Dublin, The University of Dublin || [Dublin, IE](https://www.tcd.ie)
-:------------------------------------------------------------------ | -------------------------------------------- | ----:
-_Magister in Arte Ingeniaria (M.A.I) in Biomedical Engineering_     | &nbsp;&nbsp;&nbsp;Expected&nbsp;&nbsp;&nbsp; | 2023
-_Baccalaureus in Arte Ingeniaria (B.A.I) in Biomedical Engineering_ | &nbsp;&nbsp;&nbsp;Expected&nbsp;&nbsp;&nbsp; | 2023
-

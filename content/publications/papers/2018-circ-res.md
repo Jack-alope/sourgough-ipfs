@@ -8,7 +8,7 @@ journal: Circulation Research
 type: Paper
 authors: 
     - Joshua Mayourian
-    - Delain K. Ceholski
+    - Delaine K. Ceholski
     - Przemek A. Gorski
     - Prabhu Mathiyalagan
     - Jack F. Murphy

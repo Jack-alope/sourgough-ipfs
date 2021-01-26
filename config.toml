@@ -39,19 +39,19 @@ relativeURLs = true
   [[menu.bot]]
     identifier = "github"
     name = "Github"
-    url = "/about/"
+    url = "https://github.com/jack-alope/"
     pre = "fab fa-github"
 
   [[menu.bot]]
     identifier = "medium"
     name = "Medium"
-    url = "/publications/"
+    url = "https://medium.com/@jack.f.murphy"
     pre = "fab fa-medium-m"
 
   [[menu.bot]]
     identifier = "linkedin"
     name = "LinkedIn"
-    url = "/projects/"
+    url = "https://www.linkedin.com/in/jackmurphyf/"
     pre = "fab fa-linkedin-in"
 
   
@@ -60,25 +60,25 @@ relativeURLs = true
   [[menu.about]]
     identifier = "ordcidid"
     name = "OrcidID"
-    url = "/projects/"
+    url = "https://orcid.org/0000-0002-0417-7298"
     pre = "fab fa-orcid"
 
   [[menu.about]]
     identifier = "researchgate"
     name = "ResearchGate"
-    url = "/projects/"
+    url = "https://www.researchgate.net/profile/Jack_Murphy20"
     pre = "fab fa-researchgate"
 
   [[menu.about]]
     identifier = "gitlab"
     name = "Gitlab"
-    url = "/projects/"
+    url = "https://gitlab.com/jack-alope/"
     pre = "fab fa-gitlab"
 
   [[menu.about]]
     identifier = "googlescholar"
     name = "Google Scholar"
-    url = "/projects/"
+    url = "https://scholar.google.com/citations?user=RwMPs-8AAAAJ&hl=en"
     pre = "fas fa-graduation-cap"
 
 #----------- Text Links -------
