@@ -1,7 +1,7 @@
 ---
 title: "Crypto Accepting Websites"
 date: 2021-01-31T19:22:15Z
-draft: false
+draft: true
 description: "A website created by me and my brother to keep track of
 which websites currently accept cryptocurrency as payment. "
 

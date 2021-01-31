@@ -6,4 +6,5 @@ bullet:
     second: "Analyzed tissue function using Matlab."
 
 vid: /images/side.mp4
+note: Video Adapted from Turnbull et al. The FASEB Journal (2014).  
 ---

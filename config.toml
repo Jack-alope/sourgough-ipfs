@@ -1,4 +1,4 @@
-baseURL = "https://sourgough.jack.engineering"
+baseURL = "https://jack.engineering"
 languageCode = "en-us"
 title = "Jack F. Murphy"
 theme = "sourgough-starter"
