@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2021-01-16T21:51:40Z
+date: 2021
 draft: false
 
 headshot: /images/JackProfile.png

@@ -1,6 +1,6 @@
 ---
 title: "Education"
-date: 2021-01-16T21:51:40Z
+date: 2020
 draft: false
 
 photos:
