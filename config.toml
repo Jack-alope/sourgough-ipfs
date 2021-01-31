@@ -43,10 +43,10 @@ relativeURLs = true
     pre = "fab fa-github"
 
   [[menu.bot]]
-    identifier = "medium"
-    name = "Medium"
-    url = "https://medium.com/@jack.f.murphy"
-    pre = "fab fa-medium-m"
+    identifier = "gitlab"
+    name = "Gitlab"
+    url = "https://gitlab.com/jack-alope/"
+    pre = "fab fa-gitlab"
 
   [[menu.bot]]
     identifier = "linkedin"
@@ -70,10 +70,10 @@ relativeURLs = true
     pre = "fab fa-researchgate"
 
   [[menu.about]]
-    identifier = "gitlab"
-    name = "Gitlab"
-    url = "https://gitlab.com/jack-alope/"
-    pre = "fab fa-gitlab"
+    identifier = "medium"
+    name = "Medium"
+    url = "https://medium.com/@jack.f.murphy"
+    pre = "fab fa-medium-m"
 
   [[menu.about]]
     identifier = "googlescholar"
