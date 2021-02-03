@@ -1,7 +1,7 @@
 all: npms themes nodes
 
 update:
-	npm install --save request request-promise cheerio puppeteer
+    npm install --save request request-promise cheerio puppeteer
 
 themes:
     mkdir themes
