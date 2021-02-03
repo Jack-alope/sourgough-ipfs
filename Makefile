@@ -5,7 +5,7 @@ all: things
 things:
 	apt-get update
 	apt install curl
-	curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
+	curl -sL https://deb.nodesource.com/setup_6.x | bash -
 	apt-get install -y nodejs
 	apt-get install -y npm
 	npm install --save request request-promise cheerio puppeteer
