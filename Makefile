@@ -4,7 +4,7 @@ all: things
 
 things:
 	apt-get update
-	sudo apt install curl
+	apt install curl
 	curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
 	apt-get install -y nodejs
 	apt-get install -y npm
