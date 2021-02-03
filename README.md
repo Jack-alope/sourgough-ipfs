@@ -1,3 +1,3 @@
 sourgough
 
-My Website
+My Website, made with hugo. 
