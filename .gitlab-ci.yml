@@ -5,7 +5,7 @@ variables:
 
 pages:
   script:
-    - apk add --update git nodejs npm
+    - apk add --update git nodejs npm make
     - make
     - hugo
   artifacts:
