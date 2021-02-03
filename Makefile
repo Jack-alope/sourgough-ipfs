@@ -1,9 +1,9 @@
 
-#works for docker image hugo...aka alpine linux
+#ubuntu
 all: things
 
 things:
-	apk add --update git nodejs npm
+	apt-get update && apt-get install -y git nodejs npm
 	npm install --save request request-promise cheerio puppeteer
 	mkdir themes
 	git clone https://github.com/Jack-alope/sourgough-starter.git themes/sourgough-starter
