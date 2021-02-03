@@ -6,12 +6,7 @@ variables:
 pages:
   script:
     - apk add --update git nodejs npm
-    - npm install --save request request-promise cheerio puppeteer
-    - mkdir themes
-    - cd themes
-    - git clone https://github.com/Jack-alope/sourgough-starter.git
-    - cd ..
-    - node static/js/scholar-stats.js
+    - make
     - hugo
   artifacts:
     paths:
