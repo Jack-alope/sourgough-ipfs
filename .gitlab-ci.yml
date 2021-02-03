@@ -13,7 +13,7 @@ before_script:
 
 run:
   script:
-      - sed -i '$$d' README.md
+      - sed cat README.md | head -n -1 > README.md
       - date >> README.md
       - git add -A
       - git commit -m "Locked PDF"
