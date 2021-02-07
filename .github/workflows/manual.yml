@@ -1,0 +1,29 @@
+name: Reload ciation data
+
+on:
+  push:
+    branches: ['main']
+  schedule:
+    - cron: '0 8 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+  
+    steps:
+    - uses: actions/checkout@v2
+    - name: Readme
+      run: |
+        sed -i '$$d' README.md
+        date >> README.md
+    - name: Commit files
+      run: |
+        git config --local user.name "Github Action"
+        git add *.json
+        git commit -m "Updated Citation Data"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+        force: true
