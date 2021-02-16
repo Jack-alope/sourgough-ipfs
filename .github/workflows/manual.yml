@@ -14,7 +14,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Readme
       run: |
-        make
+        npm install --save request request-promise cheerio puppeteer
+        node static/js/scholar-stats.js
         rm -f lastUpdated.md
         date >> lastUpdated.md
     - name: Commit files
