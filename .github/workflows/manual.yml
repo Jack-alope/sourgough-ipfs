@@ -14,12 +14,14 @@ jobs:
     - uses: actions/checkout@v2
     - name: Readme
       run: |
+        rm -f data/citation_stats.json
+        make
         rm -f lastUpdated.md
         date >> lastUpdated.md
     - name: Commit files
       run: |
         git config --local user.name "Github Action"
-        git add lastUpdated.md
+        git add .
         git commit -m "Updated Citation Data"
     - name: Push changes
       uses: ad-m/github-push-action@master
