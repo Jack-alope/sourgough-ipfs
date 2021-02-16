@@ -21,7 +21,8 @@ jobs:
     - name: Commit files
       run: |
         git config --local user.name "Github Action"
-        git add .
+        git add lastUpdated.md
+        git add data/citation_stats.json
         git commit -m "Updated Citation Data"
     - name: Push changes
       uses: ad-m/github-push-action@master
