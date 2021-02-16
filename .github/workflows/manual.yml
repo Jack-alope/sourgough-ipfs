@@ -14,7 +14,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Readme
       run: |
-        rm -f data/citation_stats.json
         make
         rm -f lastUpdated.md
         date >> lastUpdated.md
