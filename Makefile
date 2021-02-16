@@ -12,4 +12,5 @@ things:
 	mkdir themes
 	git clone https://github.com/Jack-alope/sourgough-starter.git themes/sourgough-starter
 	node static/js/scholar-stats.js
+	cat data/citation_stats.json
 	
