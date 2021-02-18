@@ -7,7 +7,7 @@ from scratch using Hugo."
 
 projectLinks:
     personal repo: https://github.com/jack-alope/sourgough-ipfs
-    theme repo: https://github.com/jack-alope/sougough-starter
+    theme repo: https://github.com/jack-alope/sourgough-starter
     example repo: https://github.com/jack-alope/sourgough-example
     
 ---
