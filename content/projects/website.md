@@ -14,4 +14,4 @@ projectLinks:
 
 This website has been created from scratch using Hugo as a static site
 generator. The source code is available on gitlab and the custom theme
-`sourgough` is available for use under the MIT license.
+`sourgough-starter` is available for use under the MIT license.
