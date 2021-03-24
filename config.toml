@@ -43,19 +43,11 @@ relativeURLs = true
     pre = "fab fa-github"
 
   [[menu.bot]]
-    identifier = "gitlab"
-    name = "Gitlab"
-    url = "https://gitlab.com/jack-alope/"
-    pre = "fab fa-gitlab"
-
-  [[menu.bot]]
-    identifier = "linkedin"
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/jackmurphyf/"
-    pre = "fab fa-linkedin-in"
-
+    identifier = "googlescholar"
+    name = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=RwMPs-8AAAAJ&hl=en"
+    pre = "fas fa-graduation-cap"
   
-
 #-------- About section links ----- 
   [[menu.about]]
     identifier = "ordcidid"
@@ -74,12 +66,18 @@ relativeURLs = true
     name = "Medium"
     url = "https://medium.com/@jack.f.murphy"
     pre = "fab fa-medium-m"
+    
+  [[menu.about]]
+    identifier = "gitlab"
+    name = "Gitlab"
+    url = "https://gitlab.com/jack-alope/"
+    pre = "fab fa-gitlab"
 
   [[menu.about]]
-    identifier = "googlescholar"
-    name = "Google Scholar"
-    url = "https://scholar.google.com/citations?user=RwMPs-8AAAAJ&hl=en"
-    pre = "fas fa-graduation-cap"
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/jackmurphyf/"
+    pre = "fab fa-linkedin-in"
 
 #----------- Text Links -------
   [[menu.link]]
