@@ -1,5 +1,5 @@
 ---
-title: "Cardiac Tissue Tracking"
+title: "Rianú"
 date: 2021-01-16T21:51:40Z
 draft: false
 description: "A system designed to more efficiently record, track, and
@@ -20,3 +20,26 @@ currently available systems to allow for simultaneous multi-tissue tracking
 from within an incubator this project will be able to reduce tissue
 expose to movement, air temperature and composition fluctuations, and
 unsterile environments. 
+
+___  
+###### **``The Name:``**
+
+I dubbed this project `Rianú` which aptly means Tracking in Gaeilge (Irish).
+
+
+___  
+###### **``The Recording:``**
+
+[in progress]
+
+___  
+###### **``The Tracking:``**
+
+[in progress]
+
+___  
+###### **``The Analysis:``**
+
+[in progress]
+
+
