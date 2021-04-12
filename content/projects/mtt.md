@@ -24,7 +24,7 @@ unsterile environments.
 ___  
 ###### **``The Name:``**
 
-I dubbed this project `Rianú` which aptly means Tracking in Gaeilge (Irish).
+I dubbed this project `Rianú` which aptly means tracking in Irish.
 
 
 ___  
