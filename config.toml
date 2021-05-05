@@ -78,6 +78,12 @@ relativeURLs = true
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/jackmurphyf/"
     pre = "fab fa-linkedin-in"
+    
+  [[menu.about]]
+    identifier = "scopus"
+    name = "Scopus"
+    url = "https://www.scopus.com/authid/detail.uri?authorId=57202996898"
+    pre = "fas fa-book-open"
 
 #----------- Text Links -------
   [[menu.link]]
