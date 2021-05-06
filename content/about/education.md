@@ -17,7 +17,5 @@ photos:
 degrees:
     Trinity College Dublin, The University of Dublin:
         Baccalaureus in Arte Ingeniaria (B.A.I) in Biomedical Engineering: 2023
-        Magister in Arte Ingeniaria (M.A.I) in Biomedical Engineering: 2023
         
-    
 ---
