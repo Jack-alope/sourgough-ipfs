@@ -3,6 +3,9 @@ name: Reload ciation data
 on:
   schedule:
     - cron: '0 8 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -16,6 +19,7 @@ jobs:
         node static/js/scholar-stats.js
         rm -f lastUpdated.md
         date >> lastUpdated.md
+        cat data/citation_stats.json
     - name: Commit files
       run: |
         git config --local user.name "Github Action"
