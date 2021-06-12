@@ -13,6 +13,7 @@ relativeURLs = true
     dimensionCitations = true
     backgroundPath = "images/SA_back.png"
     googleScholar = 'RwMPs-8AAAAJ'
+    scopusID = '57202996898'
     footerOffset = -75
 
 #-------------- Defined ------------
