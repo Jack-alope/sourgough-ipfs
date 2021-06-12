@@ -9,7 +9,8 @@ relativeURLs = true
 
 [params]
 #------------- Config -------------------
-    scholarStats = true
+    scholarLink = true
+    scopusLink = true
     dimensionCitations = true
     backgroundPath = "images/SA_back.png"
     googleScholar = 'RwMPs-8AAAAJ'
