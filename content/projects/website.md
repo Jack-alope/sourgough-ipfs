@@ -11,8 +11,8 @@ projectLinks:
     
 ---
 
-I have made website for various reasons-- a friends band, a bio design
-class, an art students portfolio, and of course this one. A full
+I have made website for various reasons-- a friend's band, a bio design
+class, an art student's portfolio, and of course this one. A full
 list of these can be found below. 
 
 For sites that need to be editable without any programming knowledge I
@@ -49,5 +49,5 @@ Art Student Portfolio:
 Multi-Tissue Tracking System Docs:
 [site](https://mtt.mrph.dev)  
 Classical Student Portfolio:
-[in progress]
+[in progress](https://millerja.red)
 
