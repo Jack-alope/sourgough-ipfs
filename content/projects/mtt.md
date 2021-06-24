@@ -6,7 +6,7 @@ description: "A system designed to more efficiently record, track, and
 analyze contracting cardiac tissue strips."
 
 projectLinks: 
-    docs: https://mtt.mrph.dev
+    docs: https://rianu.mrph.dev
     gitlab: https://gitlab.com/costa-lab/multi-tissue-tracking
 
 ---
