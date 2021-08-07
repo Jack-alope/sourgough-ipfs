@@ -18,14 +18,6 @@ device using 3D printing technologies. The device we chose to design was a stent
 crimper that could be easily used on a lab bench or in the cath
 lab. 
 ___  
-###### **``Open Source:``**
-
-A core philosophy was that this venture was a social enterprise not a
-business. We wanted to make a reliable crimping method available to
-all those who need it. In support of this goal we have decided to
-release all files open source under the GNU GPLv3 license. 
-
-___  
 ###### **``3D Printable:``**
 
 In further support of making this as accessible as possible we
