@@ -6,7 +6,7 @@ description: "Creating websites as a procrastination tool."
 
 projectLinks:
     personal repo: https://github.com/jack-alope/sourgough-ipfs
-    theme repo: https://github.com/jack-alope/sourgough-starter
+    custom theme: https://themes.gohugo.io/themes/sourgough-starter/
     example repo: https://github.com/jack-alope/sourgough-example
     
 ---
