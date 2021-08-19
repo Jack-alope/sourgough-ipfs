@@ -11,12 +11,12 @@ projectLinks:
     
 ---
 
-I have made website for various reasons-- a friend's band, a bio design
+I have made websites for various reasons-- a friend's band, a bio design
 class, an art student's portfolio, and of course this one. A full
 list of these can be found below. 
 
-For sites that need to be editable without any programming knowledge I
-use Hugo for design and deploy to netlify CMS for easy editing. I also
+For sites that need to be editable by users without any programming knowledge I
+use Hugo for design and deploy to netlify CMS. I also
 have experience with Bootstrap Studio and most of these sites rely
 heavily on bootstrap, although I am experimenting with other
 frameworks such as tailwindCSS.  
@@ -31,7 +31,7 @@ result this website is deployed to the ipfs and accessible via the
 following decentralized domains if you know how to use them.  
   
 Handshake: flrn/  
-Zilliqa: jackmurphy.zil</p>   
+Zilliqa: jackmurphy.zil 
 
 ___  
 ###### **``Sites:``**
@@ -47,7 +47,7 @@ Stent Crimper Design Project:
 Art Student Portfolio:
 [site](https://gracefannon.com)  
 Rianú Docs:
-[in progress](https://mtt.mrph.dev)  
+[in progress](https://rianu.mrph.dev)  
 Classical Student Portfolio:
 [in progress](https://millerja.red)
 

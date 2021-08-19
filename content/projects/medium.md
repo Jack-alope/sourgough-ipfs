@@ -2,7 +2,7 @@
 title: "Medium Writer"
 date: 2021-01-16T21:51:40Z
 draft: false
-description: "A collection of articles I have written on medium"
+description: "A collection of articles I have written on medium."
 
 projectLinks: 
     medium homepage: https://medium.com/@jack.f.murphy
