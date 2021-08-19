@@ -19,7 +19,7 @@ tracking systems by allowing for the tracking of multiple tissues simultaneously
 
 A manuscript for this project in currently in progress, upon
 publication all code will be released open-source along with detailed
-documentation on installation, use, and development of the so.
+documentation on installation, use, and development of the software.
 
 ___  
 ###### **``The Name:``**
