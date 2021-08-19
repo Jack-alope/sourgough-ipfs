@@ -9,5 +9,5 @@ the human myocardium. These 3-D tissues allow for better predicting of
 clinical outcomes through testing in vitro as they more closely
 resemble human cells than animal models and more complexly replicate
 the human myocardium than 2-D models. These 3-D models have been used
-to test various stem cell therapies in the attempt to stimulate
-cardiac regeneration post myocardial infarction. 
+to test various therapies in the attempt to stimulate
+cardiac regeneration. 
