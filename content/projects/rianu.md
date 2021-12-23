@@ -5,8 +5,8 @@ draft: false
 description: "Open-source software to more efficiently track and
 analyze contracting engineered cardiac tissues."
 
-#projectLinks: 
-#    docs: https://rianu.mrph.dev
+projectLinks: 
+    docs: https://rianu.mrph.dev
 #    gitlab: https://gitlab.com/hECT-Software/rianu
 
 ---
