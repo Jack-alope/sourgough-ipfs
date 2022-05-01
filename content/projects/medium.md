@@ -1,11 +1,12 @@
 ---
 title: "Medium Writer"
 date: 2021-01-16T21:51:40Z
-draft: false
+draft: true
 description: "A collection of articles I have written on medium."
 
-projectLinks: 
-    medium homepage: https://medium.com/@jack.f.murphy
+projectLinks:
+    homepage: https://doi3bib.com
+    gitlab: https://gitlab.com
 
 ---
 
